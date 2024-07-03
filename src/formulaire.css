@@ -1,0 +1,24 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+    margin-top:25px;
+  }
+  
+  .formes {
+    margin: 70px;
+
+}
+ H1{
+    margin-top: 50px;
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100px;
+
+margin-top: 10PX;
+}
+  .BOUTON{
+    margin-top: 30px;
+    width: 500px;
+  }
